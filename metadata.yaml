@@ -1,0 +1,27 @@
+_repo: The-condition-of-England_70267
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masterman, C. F. G.
+    gutenberg_agent_id: '55676'
+    url: http://www.gutenberg.org/2009/agents/55676
+description: ''
+gutenberg_issued: '2023-03-12'
+identifiers:
+  gutenberg: '70267'
+language: en
+pgterms:marc904: https://archive.org/details/conditionofengla00mastiala/page/n5/mode/2up
+pgterms:marc905: 20200721022439masterman
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bMethuen & Co., $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The condition of England
+url: http://www.gutenberg.org/ebooks/70267
