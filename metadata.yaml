@@ -1,11 +1,16 @@
 _repo: The-condition-of-England_70267
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70267-h/images/cover.jpg
 creator:
   author:
     agent_name: Masterman, C. F. G.
     gutenberg_agent_id: '55676'
     url: http://www.gutenberg.org/2009/agents/55676
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70267#The-condition-of-England
 gutenberg_issued: '2023-03-12'
 identifiers:
   gutenberg: '70267'
